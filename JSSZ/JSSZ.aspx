@@ -15,7 +15,7 @@
 <input type="hidden"   id="hidcheckid" />
 //<input type="hidden" id="hidNewLine" />   
 //<input type="hidden" id="hide_par" runat="server" /> 
-<input type="hidden" id="HidMc" runat="server" /> 
+//<input type="hidden" id="HidMc" runat="server" /> 
 <input type="hidden" id="hide_ccjb" runat="server" /> 
 <script type="text/javascript">
     $(document).ready(function () {
