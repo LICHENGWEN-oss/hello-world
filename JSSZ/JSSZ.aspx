@@ -80,7 +80,7 @@
         for (var i = 0; i < name.length; i++) {
             if (name[i].value.replace(/(\s*$)/g, "") == "") {
                 //alert("名称不能为空！");
-                nameValue = "名称不能为空";
+                nameValue = "名称不能为空！";
                break;
             }
        }
