@@ -1,4 +1,4 @@
-<%@ page language="C#" masterpagefile="~/MasterPage.master" autoeventwireup="true" inherits="JSSZ_JSSZ, App_Web_iu4tvaae" %>
+﻿<%@ page language="C#" masterpagefile="~/MasterPage.master" autoeventwireup="true" inherits="JSSZ_JSSZ, App_Web_iu4tvaae" %>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder2" Runat="Server">
         <input type="button" class="button5"  value="刷新" onclick ="getlist('', '', '')" />
@@ -42,7 +42,7 @@
                 }
             }
             if (count > 0) {
-                alert("角色名不能重复！");
+                alert("角色名不能重复...");
                 $("#" + par + " input[name^='txtNAME']").val("");
             }
         });
