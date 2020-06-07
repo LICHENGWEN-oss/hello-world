@@ -1,4 +1,20 @@
-﻿<%@ page language="C#" masterpagefile="~/MasterPage.master" autoeventwireup="true" inherits="JSSZ_JSSZ, App_Web_iu4tvaae" %>
+﻿
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<%@ page language="C#" masterpagefile="~/MasterPage.master" autoeventwireup="true" inherits="JSSZ_JSSZ, App_Web_iu4tvaae" %>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder2" Runat="Server">
         <input type="button" class="button5"  value="刷新" onclick ="getlist('', '', '')" />
@@ -14,7 +30,7 @@
 <input type="hidden" id="hidindexid" value="JSDM" />
 <input type="hidden"   id="hidcheckid" />
 //<input type="hidden" id="hidNewLine" />   
-<input type="hidden" id="hide_par" runat="server" /> 
+//<input type="hidden" id="hide_par" runat="server" /> 
 <input type="hidden" id="HidMC" runat="server" /> 
 <input type="hidden" id="hide_ccjb" runat="server" /> 
 <script type="text/javascript">
