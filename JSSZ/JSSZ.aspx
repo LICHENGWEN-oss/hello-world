@@ -1,19 +1,3 @@
-﻿
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <%@ page language="C#" masterpagefile="~/MasterPage.master" autoeventwireup="true" inherits="JSSZ_JSSZ, App_Web_iu4tvaae" %>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder2" Runat="Server">
