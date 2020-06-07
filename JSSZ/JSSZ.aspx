@@ -79,8 +79,13 @@
         var name = $("#divTreeListView input[name^=txtNAME]");
         for (var i = 0; i < name.length; i++) {
             if (name[i].value.replace(/(\s*$)/g, "") == "") {
-                //alert("名称不能为空！");
+<<<<<<< HEAD
+                //alert("名称不能为空...");
                 nameValue = "名称不能为空！";
+=======
+                //alert("名称不能为空！");
+                nameValue = "名称不能为空";
+>>>>>>> parent of f54edbd... Update JSSZ.aspx
                break;
             }
        }
