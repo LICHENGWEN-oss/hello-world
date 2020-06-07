@@ -69,7 +69,7 @@
                 }
             }
             if (count > 0) {
-                alert("角色名不能重复！");
+                alert("角色名不能重复...");
                 $("#" + par + " input[name^='txtNAME']").val("");
             }
         });
