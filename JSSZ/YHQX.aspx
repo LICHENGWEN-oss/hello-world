@@ -7,7 +7,7 @@
 	<link rel="stylesheet" type="text/css" href="../CSS/demo.css" />
     <link href="../CSS/style1.css" type="text/css" rel="stylesheet" />
     <link href="../CSS/style.css" type="text/css" rel="stylesheet" />
-    <script type="text/javascript" src="../JS/jquery.min.js"></script>
+	<script type="text/javascript" src="../JS/jquery.min.js"></script>
     <script type="text/javascript" src="../JS/jquery.easyui.min.js"></script>
     <script type="text/javascript" src="../JS/easyui-lang-zh_CN.js"></script>
     <script type="text/javascript" src="../JS/mainScript.js"></script>
