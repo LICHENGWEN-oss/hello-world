@@ -13,7 +13,7 @@
 <asp:Content ID="Content4" ContentPlaceHolderID="ContentPlaceHolder4" Runat="Server">
 <input type="hidden" id="hidindexid" value="JSDM" />
 <input type="hidden"   id="hidcheckid" />
-<input type="hidden" id="hidNewLine" />   
+//<input type="hidden" id="hidNewLine" />   
 <input type="hidden" id="hide_par" runat="server" /> 
 <input type="hidden" id="HidMC" runat="server" /> 
 <input type="hidden" id="hide_ccjb" runat="server" /> 
